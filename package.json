@@ -1,0 +1,27 @@
+{
+  "name": "my-personel-site",
+  "version": "0.0.0",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "modal": "^1.2.0",
+    "vue": "^3.2.33",
+    "vue-final-modal": "^3.4.4",
+    "vue-mq": "^1.0.1",
+    "vue-router": "^4.0.14",
+    "vue-star-rating": "^2.1.0",
+    "vue3-youtube": "^0.1.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "nodemon": "^2.0.16",
+    "vite": "^2.9.5"
+  }
+}
