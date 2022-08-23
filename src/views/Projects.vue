@@ -1,5 +1,5 @@
 <template>
-  <div class="container buttons">
+  <div class="selam buttons">
     <!-- Button trigger modal -->
     <!-- <button
       type="button"
@@ -163,7 +163,6 @@ export default {
 .buttons {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
 }
 </style>

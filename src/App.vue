@@ -1,26 +1,26 @@
 <script setup>
-import mainPage from "./components/MainPage.vue";
 import { RouterLink, RouterView } from "vue-router";
-// import VueMq from "vue-mq";
-
-// Vue.use(VueMq, {
-//   breakpoints: {
-//     mobile: 450,       ///////Responsive framework ü ekleyerek denedim.
-//     tablet: 900,
-//     laptop: 1250,
-//     desktop: Infinity,
-//   },
-// });
 </script>
 
 <template>
-  <mainPage />
-
-  <RouterView />
+  <div class="row">
+    <div class="col">
+      <div>
+        <HomePageVue />
+      </div>
+    </div>
+  </div>
 </template>
 
 <style></style>
-
+<script>
+import HomePageVue from "./views/HomePage.vue";
+export default {
+  data() {
+    return {};
+  },
+};
+</script>
 <!-- Col ayrımını dene. -->
 <!-- STAR RATING, USER AUTHENTICATION, TOKEN eklenecek -->
 <!-- Catpcha Eklemeyi öğren -->

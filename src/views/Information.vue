@@ -6,16 +6,19 @@
 }
 </style>
 <template>
-  <div class="container">
-    <div class="row berk">
-      <div class="col mr-6">
-        <div class="card">
+  <div class="selam">
+    <div class="card mb-3">
+      <div class="row no-gutters">
+        <div class="resim-size col-md-4">
           <img
-            src="https://media-exp1.licdn.com/dms/image/C4E03AQEnpcyF2pW_8g/profile-displayphoto-shrink_200_200/0/1638793890585?e=1657756800&v=beta&t=ikh5szGoBQ4WIVRNN6EvhhdBhTS_okBx_r65jcnE3SE"
-            alt=""
+            src="../assets/pictures/Vesikalık Taranmış-2.jpeg"
+            class="card-img"
+            alt="..."
           />
+        </div>
+        <div class="col-md-8">
           <div class="card-body">
-            <p class="card-text">
+            <p>
               1990 Ankara doğumlu. Üniversite Lisansı Fen Bilimleri Fakültesi -
               Kimya Bölümü üzerine. Daha sonrasında kendini geliştirerek ITU
               Kalite Mühendisliği ve Yöneticiliği eğitimi alıp yükseltti
@@ -23,6 +26,20 @@
               Developer olarak eğitim görmekte ve hem program hem web üzerine
               kodlamalar yapmaktadır.
             </p>
+
+            <h3>Öğrendiğim ve çalıştığım yazılım üzerine teknolojiler:</h3>
+            <div class="ogrendiklerim">
+              <p>OOP - C#</p>
+              <p>Web API</p>
+              <p>ASP.NET Core</p>
+              <p>MSSQL-SQL</p>
+              <p>MVC</p>
+              <p>HTML5 - CSS3 - JS</p>
+              <p>Vue.js</p>
+              <p>Git and Azure Platforms</p>
+              <p>Postman and Swagger UI</p>
+              <p>Design Patterns and Clean Code Philosophy</p>
+            </div>
           </div>
         </div>
       </div>
