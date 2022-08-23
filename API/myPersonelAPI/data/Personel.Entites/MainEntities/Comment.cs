@@ -25,6 +25,7 @@ namespace Personel.Entites.MainEntities
         [MaxLength(250)]
         public string Post { get; set; }
 
+        [Required]
         public DateTime SendDate { get; set; }
     }
 }
