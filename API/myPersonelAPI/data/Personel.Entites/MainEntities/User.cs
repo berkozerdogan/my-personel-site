@@ -34,6 +34,7 @@ namespace Personel.Entites
 
         [Required]
         public string PasswordHash { get; set; }
+
         public int Age { get; set; }
         public Gender Gender { get; set; }
     }
