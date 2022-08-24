@@ -1,0 +1,12 @@
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\bin\Debug\net6.0\Personel.Common.deps.json
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\bin\Debug\net6.0\Personel.Common.dll
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\bin\Debug\net6.0\Personel.Common.pdb
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\Personel.Common.csproj.AssemblyReference.cache
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\Personel.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\Personel.Common.AssemblyInfoInputs.cache
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\Personel.Common.AssemblyInfo.cs
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\Personel.Common.csproj.CoreCompileInputs.cache
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\Personel.Common.dll
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\refint\Personel.Common.dll
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\Personel.Common.pdb
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\common\Personel.Common\obj\Debug\net6.0\ref\Personel.Common.dll

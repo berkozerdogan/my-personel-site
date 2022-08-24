@@ -1,0 +1,15 @@
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\bin\Debug\net6.0\Personel.Entites.deps.json
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\bin\Debug\net6.0\Personel.Entites.dll
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\bin\Debug\net6.0\Personel.Entites.pdb
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\bin\Debug\net6.0\Personel.Common.dll
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\bin\Debug\net6.0\Personel.Common.pdb
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.csproj.AssemblyReference.cache
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.AssemblyInfoInputs.cache
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.AssemblyInfo.cs
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.csproj.CoreCompileInputs.cache
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.csproj.CopyComplete
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.dll
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\refint\Personel.Entites.dll
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\Personel.Entites.pdb
+C:\Users\druid\OneDrive\Desktop\my-personel-site\API\myPersonelAPI\data\Personel.Entites\obj\Debug\net6.0\ref\Personel.Entites.dll

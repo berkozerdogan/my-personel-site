@@ -27,7 +27,5 @@ namespace Personel.Entites.MainEntities
 
         [Required]
         public DateTime SendDate { get; set; }
-
-        public string Deneme { get; set; }
     }
 }
